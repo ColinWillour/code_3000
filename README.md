@@ -16,14 +16,3 @@ Your goal is to connect anonymized data back to its source data and check the ma
 
 ### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
-
-## Personal Ethics Statement
-
-Chapter 5 of *Ethical Machines* argues that most ethics statements fail because they list nice-sounding values ("we value fairness, transparency, and privacy") without saying what those values require anyone to actually do. I agree, and I want my own statement to avoid that trap by tying each value to a concrete commitment.
-
-- **Because I value fairness, I will** test the models and systems I build for disparate impact across groups, including groups that were never used as inputs, since proxies like zip code can quietly reintroduce bias.
-- **Because I value privacy, I will** treat "anonymized" data with skepticism, collect only what a project needs, and never re-identify people without their consent and a legitimate purpose.
-- **Because I value honesty, I will** be able to explain what my systems do and where they fall short, and I will not overstate a model's accuracy to make it easier to ship.
-- **Because I value responsibility, I will** consider the people affected by my work, not just the people paying for it, and I will speak up or walk away when a project crosses a line I can name in advance.
-
-For me, ethics is less about having the right opinions and more about deciding ahead of time what I will and will not do, so that when pressure comes from a deadline or a manager, the decision has already been made.
