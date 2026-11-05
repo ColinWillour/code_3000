@@ -1,6 +1,4 @@
-## Personal Ethics Statement
-
-*Note: I don't have a copy of* Ethical Machines, *so as my professor suggested, I based this on an AI-generated summary of chapter 5 instead of the book itself.*
+ETHICS
 
 The main idea that I took from chapter 5 is that a list of values doesn't mean much unless its actually tied to actions. I fully agree with that, almost every company says it cares about fairness or privacy but that doesnt say anything about what they'll actually do when it would hurt them.
 
